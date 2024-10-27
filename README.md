@@ -25,12 +25,6 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma"/>
 </div>
 
-### 📊 Minhas Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuario&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-</div>
-
 ---
 
 ### 📌 Experiência Profissional
@@ -44,10 +38,6 @@
 
 - **Instituto Novo Olhar** – Corumbá, MS | _Abril 2022 – Outubro 2022_
   - Instrutor voluntário, lecionando introdução à informática e arquitetura de hardware para jovens em situação de vulnerabilidade.
-
-### 🌱 Projetos Recentes
-- [**Nome do Projeto 1**](link-do-projeto): Descrição breve do projeto e tecnologias usadas.
-- [**Nome do Projeto 2**](link-do-projeto): Descrição breve do projeto e tecnologias usadas.
 
 ---
 
