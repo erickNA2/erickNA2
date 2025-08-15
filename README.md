@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Erick Nunes 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full-Stack | JavaScript | TypeScript | React | Next.js</strong><br>
+  <strong>Desenvolvedor Full-Stack com foco em Front-End | JavaScript | TypeScript | React | Next.js</strong><br>
   Graduando em Análise e Desenvolvimento de Sistemas e apaixonado por construir soluções inovadoras que otimizam processos e melhoram a experiência do usuário!
 </p>
 
@@ -9,9 +9,9 @@
 
 ### 🚀 Sobre mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **SPTech** (Conclusão: Dezembro de 2024)
-- 💼 Atualmente trabalho na **Dell Technologies** (via Stefanini) como Desenvolvedor Full-Stack
-- 💡 Experiência em **JavaScript**, **TypeScript**, **React**, **Next.js**, **Java 17** e **Power Automate**
-- 🌐 Falo **Português**, **Inglês** (fluente), **Francês** e **Espanhol** (intermediário), e **Japonês** (básico)
+- 💼 Ultima atuação na **Dell Technologies** (via Stefanini) como Desenvolvedor Full-Stack
+- 💡 Experiência em **JavaScript**, **TypeScript**, **React**, **Next.js**, **Java 17**, **Spring Boot** e **Power Automate**
+- 🌐 Falo **Português** (nativo), **Inglês** (fluente), **Francês** e **Espanhol** (intermediário), **Japonês** (básico)
 
 ### 🔧 Tecnologias & Ferramentas
 <div>
@@ -28,13 +28,13 @@
 ---
 
 ### 📌 Experiência Profissional
-- **Dell Technologies (via Stefanini)** | _Março 2024 – Atual_
-  - Desenvolvimento de rotas para comunicação com APIs e integração de funcionalidades no front-end.
-  - Colaboração com equipes para entender requisitos e garantir integração eficaz de novas funcionalidades.
+- **Dell Technologies (via Stefanini)** | _Março 2024 – Julho 2025_
+  - Desenvolvimento de rotas para comunicação com APIs e integração de funcionalidades no front-end em Next.JS e React.
+  - Colaboração com equipes para entender requisitos e garantir integração eficaz de novas funcionalidades e correções de ferramentas internas.
 
 - **Stefanini** | _Agosto 2023 – Março 2024_
-  - Desenvolvimento de soluções para clientes com Power Automate, focando em automação de processos.
-  - Colaboração com clientes para entender necessidades e propor soluções eficazes.
+  - Desenvolvimento de soluções para clientes com Power Automate, focando em automação de processos de ferramentas de abertura e resposta de chamados.
+  - Colaboração com clientes para entender necessidades e propor soluções que atendem a necessidade de automação de processos empresariais.
 
 - **Instituto Novo Olhar** – Corumbá, MS | _Janeiro 2022 – Junho 2022_
   - Instrutor voluntário, lecionando introdução à informática e arquitetura de hardware para jovens em situação de vulnerabilidade.
@@ -52,5 +52,3 @@
 </p>
 
 ---
-
-> 💡 **"A melhor maneira de prever o futuro é criá-lo."** — Peter Drucker
