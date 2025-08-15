@@ -8,9 +8,9 @@
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **SPTech** (Conclusão: Dezembro de 2024)
-- 💼 Ultima atuação na **Dell Technologies** (via Stefanini) como Desenvolvedor Full-Stack
-- 💡 Experiência em **JavaScript**, **TypeScript**, **React**, **Next.js**, **Java 17**, **Spring Boot** e **Power Automate**
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas na **SPTech** (Dezembro de 2024)
+- 💼 Ultima atuação na **Dell Technologies** (via Stefanini) como Desenvolvedor Front-End
+- 💡 Experiência em **Node**, **TypeScript**, **React**, **Next.js**, **Java 17**, **Spring Boot** e **Power Automate**
 - 🌐 Falo **Português** (nativo), **Inglês** (fluente), **Francês** e **Espanhol** (intermediário), **Japonês** (básico)
 
 ### 🔧 Tecnologias & Ferramentas
