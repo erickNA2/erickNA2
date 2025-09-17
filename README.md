@@ -29,7 +29,7 @@
 
 ### 📌 Experiência Profissional
 - **Dell Technologies (via Stefanini)** | _Março 2024 – Julho 2025_
-  - Desenvolvimento de rotas para comunicação com APIs e integração de funcionalidades no front-end em Next.JS e React.
+  - Desenvolvimento de rotas para comunicação de Bancos relacionais com APIs SpringBoot e integração de funcionalidades no front-end em Next.JS, React e Angular14.
   - Colaboração com equipes para entender requisitos e garantir integração eficaz de novas funcionalidades e correções de ferramentas internas.
 
 - **Stefanini** | _Agosto 2023 – Março 2024_
@@ -37,7 +37,7 @@
   - Colaboração com clientes para entender necessidades e propor soluções que atendem a necessidade de automação de processos empresariais.
 
 - **Instituto Novo Olhar** – Corumbá, MS | _Janeiro 2022 – Junho 2022_
-  - Instrutor voluntário, lecionando introdução à informática e arquitetura de hardware para jovens em situação de vulnerabilidade.
+  - Instrutor voluntário, lecionando introdução à informática e arquitetura de hardware para jovens e adolescentes.
 
 ---
 
